@@ -1,5 +1,3 @@
-# Этические аспекты применения искусственного интеллекта
+# 2025/2026 Этические аспекты применения искусственного интеллекта (очная)
 
-Ethical Aspects of Artificial Intelligence Applications
-
-[EAAIA-2025 — описание курса и материалы](COURSE.md).
+## Ethical Aspects of Artificial Intelligence Applications
